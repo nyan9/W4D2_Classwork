@@ -1,3 +1,4 @@
+
 class Piece
   # def initialize(color, board, pos)
   #   @color = color
@@ -6,6 +7,3 @@ class Piece
   # end
 end
 
-class NullPiece < Piece
-
-end
